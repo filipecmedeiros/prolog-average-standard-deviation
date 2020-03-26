@@ -36,6 +36,4 @@ Average and Standard Deviation written in Prolog
     
       STD = 1.056360256530071.
       
- #### Live sample
- 
-      https://rextester.com/TIG33540
+ #### [Live sample](https://rextester.com/TIG33540)
